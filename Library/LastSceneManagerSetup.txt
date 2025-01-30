@@ -1,0 +1,41 @@
+sceneSetups:
+- path: Assets/Settings/Scenes/Floor 6.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Settings/Scenes/Floor 5.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Settings/Scenes/Floor 4.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Settings/Scenes/Floor 3.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Settings/Scenes/Floor 2.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Settings/Scenes/Floor 1.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Settings/Scenes/Home.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Settings/Scenes/Story 3.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Settings/Scenes/Story 2.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Settings/Scenes/Story 1.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
